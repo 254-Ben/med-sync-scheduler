@@ -9,6 +9,11 @@ MedSync Scheduler is a sophisticated medical appointment booking system built wi
 
 **URL**: https://lovable.dev/projects/f5bc40a9-448e-4942-b1c3-f900862ceae6
 
+## AI TOOLS USED
+- Chatgpt to gemerate the problem and the desired solution
+- Claudi Ai to generate the prompt
+- Supabase & Lovable to build and deploy the web application
+
 ## 📋 Development History & Prompts Used
 
 This project was built through iterative development using the following key prompts:
